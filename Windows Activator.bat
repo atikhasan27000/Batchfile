@@ -1,7 +1,7 @@
 @echo off
 mode 120, 31
 
-title Windows Activator by Muki
+title Windows Activator by ATik HaSan
 
 color 3
 net session >nul 2>&1
